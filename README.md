@@ -5,8 +5,11 @@ Para ler mais [siga o blog](https://dev.to/devgymbr).
 
 ## Changelog 
 
+### 23/09/2023
+* Desafio técnico com solução - Cliente HTTP
+
 ### 06/09/2023 
-* Desafio técnico com solução - Clone do Kafka 
+* Desafio técnico com solução - Clone do Git 
 * Modo treino
 
 ### 12/04/2023
